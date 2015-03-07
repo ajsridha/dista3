@@ -1,0 +1,12 @@
+COMPILATION:
+
+Just run make (or make all)
+
+
+REFERENCES:
+
+I used this guide to implement select:
+http://beej.us/guide/bgnet/output/html/multipage/advanced.html
+
+I used this guide to implement sockets:
+http://vichargrave.com/network-programming-design-patterns-in-c/
